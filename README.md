@@ -36,6 +36,7 @@ OFFICIAL INSTALLER : https://asana.com/download
 </pre>
 
 ## ***A. Proyek Pertama Asana***
+![image](https://github.com/22MAY-D/dokumentasi-tools-mpti/assets/65173851/8e37a291-ec32-4903-a154-f6201ed458f8)
 1) Akses Official Website "Asana" melalui tautan berikut, 'https://asana.com'. Kemudian pada tampilan menu utama dari Official Website "Asana", pilih opsi 'Get Started'.
 2) Pada menu Sign Up, klik kolom-bar, kemudian ketikkan e-mail saudara untuk melakukan pendaftaran akun baru. Lalu, pilih opsi 'Sign Up'.
 3) Pada menu Sign Up, klik kolom-bar, kemudian ketikkan nama lengkap saudara. Lalu, pilih opsi 'Continue'.
