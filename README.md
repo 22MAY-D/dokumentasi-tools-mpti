@@ -62,7 +62,7 @@ OFFICIAL INSTALLER : https://asana.com/download
 2) Pada menu Sign Up, klik kolom-bar, kemudian ketikkan e-mail saudara untuk melakukan pendaftaran akun baru. Lalu, pilih opsi 'Sign Up'.
 <img width="927" alt="image_2023-05-17_12-36-48" src="https://github.com/22MAY-D/dokumentasi-tools-mpti/assets/65173851/833d9702-9b36-46db-9220-02be6a2b2e99">
                     *Gambar 1.2 —  Menu Sign Up (1)
-                                                 
+<space> 
 3) Pada menu Sign Up, klik kolom-bar, kemudian ketikkan nama lengkap saudara. Lalu, pilih opsi 'Continue'.
 <img width="927" alt="image_2023-05-17_12-38-01" src="https://github.com/22MAY-D/dokumentasi-tools-mpti/assets/65173851/ce741712-4c7f-490f-b0b1-aa602c8b6461">
                     *Gambar 1.3 — Menu Sign Up (2)
