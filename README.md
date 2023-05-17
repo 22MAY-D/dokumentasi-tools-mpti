@@ -8,7 +8,7 @@ DOKUMENTASI LENGKAP :
 </pre>
 -----
 # TOOLS PROJECT MANAGEMENT
-Tools manajemen proyek adalah aplikasi atau perangkat lunak yang digunakan untuk membantu mengelola dan mengkoordinasi proyek. Mereka menyediakan fitur dan fungsi yang membantu dalam perencanaan, pelacakan, kolaborasi, pengorganisasian, dan pelaporan proyek.
+Tools Manajemen Proyek adalah aplikasi atau perangkat lunak yang digunakan untuk membantu mengelola dan mengkoordinasi proyek. Mereka menyediakan fitur dan fungsi yang membantu dalam perencanaan, pelacakan, kolaborasi, pengorganisasian, dan pelaporan proyek.
 
 Berikut adalah beberapa contoh tools manajemen proyek yang umum digunakan:
 
