@@ -6,7 +6,3 @@
 <pre>
 DOKUMENTASI LENGKAP :
 </pre>
-
-asdsadasd
- &emsp;
-sadasdasd
