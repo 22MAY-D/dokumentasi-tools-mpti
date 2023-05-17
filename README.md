@@ -26,3 +26,4 @@ Setiap alat manajemen proyek memiliki fitur dan keunggulan yang berbeda, dan pil
 &nbsp;
 
 # ASANA
+Asana adalah sebuah perangkat lunak (software) manajemen tugas dan kolaborasi tim yang membantu dalam mengatur pekerjaan, mengelola proyek, dan berkomunikasi antar anggota tim. Asana menyediakan platform yang memungkinkan tim untuk membuat daftar tugas, mengatur jadwal, menetapkan tenggat waktu, membagikan file, berdiskusi, dan melacak kemajuan proyek secara real-time. Dengan Asana, tim dapat bekerja sama secara efisien, mengurangi kekacauan, dan meningkatkan produktivitas.
