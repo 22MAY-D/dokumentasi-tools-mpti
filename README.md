@@ -23,7 +23,6 @@ Berikut adalah beberapa contoh tools manajemen proyek yang umum digunakan:
 8. Google Docs dan Google Sheets: Alat kolaboratif yang memungkinkan tim untuk bekerja bersama-sama secara real-time pada dokumen dan spreadsheet.
 
 Setiap alat manajemen proyek memiliki fitur dan keunggulan yang berbeda, dan pilihan tergantung pada kebutuhan dan preferensi tim proyek.
-
 ----
 &nbsp;
 
