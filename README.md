@@ -107,6 +107,9 @@ OFFICIAL INSTALLER : https://asana.com/download
 ----
 
 ***
+
+___
+
 # FOCALBOARD
 Focalboard adalah sebuah perangkat lunak (software) manajemen tugas dan kolaborasi yang memungkinkan tim untuk mengatur pekerjaan, berbagi informasi, dan berkomunikasi secara efisien. Focalboard dirancang untuk membantu tim dalam mengelola proyek, mengatur tugas, dan melacak kemajuan proyek secara visual.
 Focalboard menyediakan platform yang mirip dengan papan atau papan tulis virtual, di mana pengguna dapat membuat daftar tugas, mengatur prioritas, menambahkan catatan, dan melampirkan file. Dengan Focalboard, anggota tim dapat berkolaborasi dalam satu tempat, berbagi pemikiran, memberikan komentar, dan memperbarui status tugas secara real-time.
