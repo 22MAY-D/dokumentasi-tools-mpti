@@ -28,11 +28,12 @@ Setiap alat manajemen proyek memiliki fitur dan keunggulan yang berbeda, dan pil
 ----
 
 # 1. ASANA
-Asana adalah sebuah perangkat lunak (software) manajemen tugas dan kolaborasi tim yang membantu dalam mengatur pekerjaan, mengelola proyek, dan berkomunikasi antar anggota tim. Asana menyediakan platform yang memungkinkan tim untuk membuat daftar tugas, mengatur jadwal, menetapkan tenggat waktu, membagikan file, berdiskusi, dan melacak kemajuan proyek secara real-time. Dengan Asana, tim dapat bekerja sama secara efisien, mengurangi kekacauan, dan meningkatkan produktivitas.
+      Asana adalah sebuah perangkat lunak (software) manajemen tugas dan kolaborasi tim yang membantu dalam mengatur pekerjaan, mengelola proyek, dan berkomunikasi antar anggota tim. Asana menyediakan platform yang memungkinkan tim untuk membuat daftar tugas, mengatur jadwal, menetapkan tenggat waktu, membagikan file, berdiskusi, dan melacak kemajuan proyek secara real-time. 
+Dengan Asana, tim dapat bekerja sama secara efisien, mengurangi kekacauan, dan meningkatkan produktivitas.
 
 ----
 
 # 2. FOCALBOARD
-Focalboard adalah sebuah perangkat lunak (software) manajemen tugas dan kolaborasi yang memungkinkan tim untuk mengatur pekerjaan, berbagi informasi, dan berkomunikasi secara efisien. Focalboard dirancang untuk membantu tim dalam mengelola proyek, mengatur tugas, dan melacak kemajuan proyek secara visual. <br />
-      Focalboard menyediakan platform yang mirip dengan papan atau papan tulis virtual, di mana pengguna dapat membuat daftar tugas, mengatur prioritas, menambahkan catatan, dan melampirkan file. Dengan Focalboard, anggota tim dapat berkolaborasi dalam satu tempat, berbagi pemikiran, memberikan komentar, dan memperbarui status tugas secara real-time. <br />
-Focalboard juga memungkinkan pengguna untuk menghubungkan tugas-tugas yang saling terkait, membuat jadwal, mengatur pengingat, dan melacak perkembangan secara visual. Dengan fitur-fitur ini, Focalboard membantu meningkatkan produktivitas tim dan mempermudah koordinasi dalam proyek atau pekerjaan yang kompleks. <br />
+      Focalboard adalah sebuah perangkat lunak (software) manajemen tugas dan kolaborasi yang memungkinkan tim untuk mengatur pekerjaan, berbagi informasi, dan berkomunikasi secara efisien. Focalboard dirancang untuk membantu tim dalam mengelola proyek, mengatur tugas, dan melacak kemajuan proyek secara visual. <br />
+Focalboard menyediakan platform yang mirip dengan papan atau papan tulis virtual, di mana pengguna dapat membuat daftar tugas, mengatur prioritas, menambahkan catatan, dan melampirkan file. Dengan Focalboard, anggota tim dapat berkolaborasi dalam satu tempat, berbagi pemikiran, memberikan komentar, dan memperbarui status tugas secara real-time. <br />
+      Focalboard juga memungkinkan pengguna untuk menghubungkan tugas-tugas yang saling terkait, membuat jadwal, mengatur pengingat, dan melacak perkembangan secara visual. Dengan fitur-fitur ini, Focalboard membantu meningkatkan produktivitas tim dan mempermudah koordinasi dalam proyek atau pekerjaan yang kompleks. <br />
