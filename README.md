@@ -66,7 +66,7 @@ OFFICIAL INSTALLER : https://asana.com/download
 3) Pada menu Sign Up, klik kolom-bar, kemudian ketikkan nama lengkap saudara. Lalu, pilih opsi 'Continue'.
 <img width="927" alt="image_2023-05-17_12-38-01" src="https://github.com/22MAY-D/dokumentasi-tools-mpti/assets/65173851/ce741712-4c7f-490f-b0b1-aa602c8b6461">
                     *Gambar 1.3 — Menu Sign Up (2)
-                                                 
+<space> 
 4) Pada menu "What kind of work you do?", klik Information Technology (IT). Ini opsional, sesuaikan dengan kebutuhan saudara agar sistem dapat membantu dalam pengerjaan proyek saudara yang sesuai dengan produk atau tools yang tersedia. Lalu, pilih opsi 'Continue'.
 <img width="928" alt="image_2023-05-17_12-38-54" src="https://github.com/22MAY-D/dokumentasi-tools-mpti/assets/65173851/61631cc2-a141-42cd-8a66-b93038180e9e">
                     *Gambar 1.4 — Menu Topic
