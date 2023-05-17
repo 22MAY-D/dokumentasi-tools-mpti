@@ -38,6 +38,7 @@ Berikut adalah beberapa contoh tools manajemen proyek yang umum digunakan:
 8. Google Docs dan Google Sheets: Alat kolaboratif yang memungkinkan tim untuk bekerja bersama-sama secara real-time pada dokumen dan spreadsheet.
 
 Setiap alat manajemen proyek memiliki fitur dan keunggulan yang berbeda, dan pilihan tergantung pada kebutuhan dan preferensi tim proyek.
+                                                 
 [Kembali ke Daftar Isi>>](https://github.com/22MAY-D/dokumentasi-tools-mpti#DAFTAR-ISI)
                                                  
                                                  
@@ -109,6 +110,8 @@ OFFICIAL INSTALLER : https://asana.com/download
 ### ***B. Pengembangan Proyek Lebih Lanjut***
 ### . . . . ***to be Continued*** <br />
                                                  
+[Kembali ke Daftar Isi>>](https://github.com/22MAY-D/dokumentasi-tools-mpti#DAFTAR-ISI)
+                                                 
                                                  
 ----
 ----
@@ -122,3 +125,5 @@ Focalboard juga memungkinkan pengguna untuk menghubungkan tugas-tugas yang salin
 ### ***B. Pengembangan Proyek Lebih Lanjut***
 ### . . . . ***to be Continued*** <br />
 ----
+                                                 
+[Kembali ke Daftar Isi>>](https://github.com/22MAY-D/dokumentasi-tools-mpti#DAFTAR-ISI)
