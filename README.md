@@ -1,4 +1,10 @@
 # dokumentasi-tools-mpti
+ 
+### ***Ditunjukkan untuk tugas Manajemen Proyek Teknologi Informasi***
+<pre>
+DOKUMENTASI LENGKAP :
+</pre>
+
 > NAMA : FADHILAH EDO DHARMAPARAYANA
 > 
 > NPM  : 19081010172
@@ -6,11 +12,6 @@
 > KELAS: MANAJEMEN PROYEK C - [081]
 > 
  &ensp;
- 
-### ***Ditunjukkan untuk tugas Manajemen Proyek Teknologi Informasi***
-<pre>
-DOKUMENTASI LENGKAP :
-</pre>
 
 ----
 
