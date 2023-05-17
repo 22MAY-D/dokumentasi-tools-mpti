@@ -18,8 +18,8 @@ DOKUMENTASI LENGKAP :
 # DAFTAR ISI
 
 - [TOOLS PROJECT MANAGEMENT](https://github.com/22MAY-D/dokumentasi-tools-mpti#TOOLS-PROJECT-MANAGEMENT)
-- [ASANA](https://github.com/22MAY-D/dokumentasi-tools-mpti#1.-ASANA)
-- [FOCALBOARD](https://github.com/22MAY-D/dokumentasi-tools-mpti#2.-FOCALBOARD)
+- [ASANA](https://github.com/22MAY-D/dokumentasi-tools-mpti#1-.-ASANA)
+- [FOCALBOARD](https://github.com/22MAY-D/dokumentasi-tools-mpti#2-.-FOCALBOARD)
 ----
 
 # TOOLS PROJECT MANAGEMENT
