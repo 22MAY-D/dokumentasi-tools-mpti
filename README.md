@@ -21,7 +21,10 @@ DOKUMENTASI LENGKAP :
 - [ASANA](https://github.com/22MAY-D/dokumentasi-tools-mpti#ASANA)
 - [FOCALBOARD](https://github.com/22MAY-D/dokumentasi-tools-mpti#FOCALBOARD)
 
+
 ----
+----
+
 
 # TOOLS PROJECT MANAGEMENT
 Tools Manajemen Proyek adalah aplikasi atau perangkat lunak yang digunakan untuk membantu mengelola dan mengkoordinasi proyek. Mereka menyediakan fitur dan fungsi yang membantu dalam perencanaan, pelacakan, kolaborasi, pengorganisasian, dan pelaporan proyek.
@@ -39,7 +42,10 @@ Berikut adalah beberapa contoh tools manajemen proyek yang umum digunakan:
 
 Setiap alat manajemen proyek memiliki fitur dan keunggulan yang berbeda, dan pilihan tergantung pada kebutuhan dan preferensi tim proyek.
 
+
 ----
+----
+
 
 # ASANA
 Asana adalah sebuah perangkat lunak (software) manajemen tugas dan kolaborasi tim yang membantu dalam mengatur pekerjaan, mengelola proyek, dan berkomunikasi antar anggota tim. Asana menyediakan platform yang memungkinkan tim untuk membuat daftar tugas, mengatur jadwal, menetapkan tenggat waktu, membagikan file, berdiskusi, dan melacak kemajuan proyek secara real-time. 
@@ -106,6 +112,7 @@ OFFICIAL INSTALLER : https://asana.com/download
 ### . . . . ***to be Continued*** <br />
 
 
+----
 ----
 
 
