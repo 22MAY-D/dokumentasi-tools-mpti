@@ -28,7 +28,7 @@ Setiap alat manajemen proyek memiliki fitur dan keunggulan yang berbeda, dan pil
 ----
 
 # 1. ASANA
-      Asana adalah sebuah perangkat lunak (software) manajemen tugas dan kolaborasi tim yang membantu dalam mengatur pekerjaan, mengelola proyek, dan berkomunikasi antar anggota tim. Asana menyediakan platform yang memungkinkan tim untuk membuat daftar tugas, mengatur jadwal, menetapkan tenggat waktu, membagikan file, berdiskusi, dan melacak kemajuan proyek secara real-time. 
+Asana adalah sebuah perangkat lunak (software) manajemen tugas dan kolaborasi tim yang membantu dalam mengatur pekerjaan, mengelola proyek, dan berkomunikasi antar anggota tim. Asana menyediakan platform yang memungkinkan tim untuk membuat daftar tugas, mengatur jadwal, menetapkan tenggat waktu, membagikan file, berdiskusi, dan melacak kemajuan proyek secara real-time. 
 Dengan Asana, tim dapat bekerja sama secara efisien, mengurangi kekacauan, dan meningkatkan produktivitas.
 <pre>
 OFFICIAL WEBSITE   : https://asana.com
@@ -47,15 +47,18 @@ OFFICIAL INSTALLER : https://asana.com/download
 9) Pada menu "How layout works best for this project?", terdapat empat macam layout. Saudara bisa pilih yang sesuai dengan kebutuhan saudara. Disini saya memilih layout "List" sebagai tampilan projek pertama saya. Lalu, pilih opsi 'Continue'
 10) Pada menu "Congratulations, you've created your first project in Asana!", klik kolom-bar dan isikan e-mail rekan saudara untuk ikut berperan andil dalam proyek saudara. Ini opsional, disini saya memasukkan e-mail pribadi saya yang lain pada menu ini. Lalu, pilih opsi 'Continue'
 11) Pada menu "Get Asana for all your screen", saudara dapat melihat berbagai macam installer version yang sesuai dengan device saudara, dengan klik 'Views Apps and Continue', atau bisa saudara akses melalui tautan berikut, 'https://asana.com/download'.
-12) Pada menu "Desktop App: Asana for Windows", klik download untuk mengunduh file-installer "Asana" di device saudara.'
+12) Pada menu "Desktop App: Asana for Windows", klik download untuk mengunduh file-installer "Asana" di device saudara.
 13) Selesai sudah! Ini adalah tampilan menu utama proyek pertama saudara.
-Saudara dapat melalakukan pengaturan atau edit untuk manajemen tugas dan proyek saudara. Dengan Asana, saudara dapat melakukan kustomisasi daftar tugas, mengatur jadwal, mengoordinasikan kolaborasi tim, dan melacak kemajuan proyek secara efisien.
+    Saudara dapat melalakukan pengaturan atau edit untuk manajemen tugas dan proyek saudara. Dengan Asana, saudara dapat melakukan kustomisasi daftar tugas, mengatur jadwal, mengoordinasikan kolaborasi tim, dan melacak kemajuan proyek secara efisien.
 
 ## ***B. Pengembangan Proyek Lebih Lanjut***
 . . . . ***to be Continued*** <br />
 ----
 
 # 2. FOCALBOARD
-      Focalboard adalah sebuah perangkat lunak (software) manajemen tugas dan kolaborasi yang memungkinkan tim untuk mengatur pekerjaan, berbagi informasi, dan berkomunikasi secara efisien. Focalboard dirancang untuk membantu tim dalam mengelola proyek, mengatur tugas, dan melacak kemajuan proyek secara visual. <br />
-Focalboard menyediakan platform yang mirip dengan papan atau papan tulis virtual, di mana pengguna dapat membuat daftar tugas, mengatur prioritas, menambahkan catatan, dan melampirkan file. Dengan Focalboard, anggota tim dapat berkolaborasi dalam satu tempat, berbagi pemikiran, memberikan komentar, dan memperbarui status tugas secara real-time. <br />
-      Focalboard juga memungkinkan pengguna untuk menghubungkan tugas-tugas yang saling terkait, membuat jadwal, mengatur pengingat, dan melacak perkembangan secara visual. Dengan fitur-fitur ini, Focalboard membantu meningkatkan produktivitas tim dan mempermudah koordinasi dalam proyek atau pekerjaan yang kompleks. <br />
+Focalboard adalah sebuah perangkat lunak (software) manajemen tugas dan kolaborasi yang memungkinkan tim untuk mengatur pekerjaan, berbagi informasi, dan berkomunikasi secara efisien. Focalboard dirancang untuk membantu tim dalam mengelola proyek, mengatur tugas, dan melacak kemajuan proyek secara visual.
+Focalboard menyediakan platform yang mirip dengan papan atau papan tulis virtual, di mana pengguna dapat membuat daftar tugas, mengatur prioritas, menambahkan catatan, dan melampirkan file. Dengan Focalboard, anggota tim dapat berkolaborasi dalam satu tempat, berbagi pemikiran, memberikan komentar, dan memperbarui status tugas secara real-time.
+Focalboard juga memungkinkan pengguna untuk menghubungkan tugas-tugas yang saling terkait, membuat jadwal, mengatur pengingat, dan melacak perkembangan secara visual. Dengan fitur-fitur ini, Focalboard membantu meningkatkan produktivitas tim dan mempermudah koordinasi dalam proyek atau pekerjaan yang kompleks.
+
+## ***B. Pengembangan Proyek Lebih Lanjut***
+. . . . ***to be Continued*** <br />
