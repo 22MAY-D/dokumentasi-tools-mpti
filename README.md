@@ -46,7 +46,7 @@ OFFICIAL INSTALLER : https://asana.com/download
 8) Pada menu "How would you group these task into section or stages?", klik kolom-bar yang terdapat tiga kolom. Isi sesuai dengan kebutuhan saudara. Disini saya mengetikkan (1. To Do; 2. Doing; 3. Done) as a default, atau bawaan dari Asana. Lalu, pilih opsi 'Continue'.
 9) Pada menu "How layout works best for this project?", terdapat empat macam layout. Saudara bisa pilih yang sesuai dengan kebutuhan saudara. Disini saya memilih layout "List" sebagai tampilan projek pertama saya. Lalu, pilih opsi 'Continue'
 10) Pada menu "Congratulations, you've created your first project in Asana!", klik kolom-bar dan isikan e-mail rekan saudara untuk ikut berperan andil dalam proyek saudara. Ini opsional, disini saya memasukkan e-mail pribadi saya yang lain pada menu ini. Lalu, pilih opsi 'Continue'
-11) Pada menu "Get Asana for all your screen", saudara dapat melihat berbagai macam installer version yang sesuai dengan device saudara, dengan klik 'Views Apps and Continue'.
+11) Pada menu "Get Asana for all your screen", saudara dapat melihat berbagai macam installer version yang sesuai dengan device saudara, dengan klik 'Views Apps and Continue', atau bisa saudara akses melalui tautan berikut, 'https://asana.com/download'.
 12) Pada menu "Desktop App: Asana for Windows", klik download untuk mengunduh file-installer "Asana" di device saudara.'
 13) Selesai sudah! Ini adalah tampilan menu utama proyek pertama saudara.
 Saudara dapat melalakukan pengaturan atau edit untuk manajemen tugas dan proyek saudara. Dengan Asana, saudara dapat melakukan kustomisasi daftar tugas, mengatur jadwal, mengoordinasikan kolaborasi tim, dan melacak kemajuan proyek secara efisien.
