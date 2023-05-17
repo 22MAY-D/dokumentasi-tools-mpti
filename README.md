@@ -38,3 +38,8 @@ Focalboard adalah sebuah perangkat lunak (software) manajemen tugas dan kolabora
 Focalboard menyediakan platform yang mirip dengan papan atau papan tulis virtual, di mana pengguna dapat membuat daftar tugas, mengatur prioritas, menambahkan catatan, dan melampirkan file. Dengan Focalboard, anggota tim dapat berkolaborasi dalam satu tempat, berbagi pemikiran, memberikan komentar, dan memperbarui status tugas secara real-time.
 
 Focalboard juga memungkinkan pengguna untuk menghubungkan tugas-tugas yang saling terkait, membuat jadwal, mengatur pengingat, dan melacak perkembangan secara visual. Dengan fitur-fitur ini, Focalboard membantu meningkatkan produktivitas tim dan mempermudah koordinasi dalam proyek atau pekerjaan yang kompleks.
+
+The action of every agent <br />
+  into the world <br />
+starts <br />
+  from their physical selves. <br />
