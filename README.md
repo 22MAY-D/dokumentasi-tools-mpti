@@ -84,8 +84,7 @@ OFFICIAL INSTALLER : https://asana.com/download
 <img width="934" alt="image_2023-05-17_12-48-22" src="https://github.com/22MAY-D/dokumentasi-tools-mpti/assets/65173851/64e4bcc9-a294-47e9-aa50-8cdb7696553a">
                     *Gambar 1.3 —
                     
-13) Selesai sudah! Ini adalah tampilan menu utama proyek pertama saudara.
-    Saudara dapat melalakukan pengaturan atau edit untuk manajemen tugas dan proyek saudara. Dengan Asana, saudara dapat melakukan kustomisasi daftar tugas, mengatur jadwal, mengoordinasikan kolaborasi tim, dan melacak kemajuan proyek secara efisien.
+13) **Selesai sudah! Ini adalah tampilan menu utama proyek pertama saudara.** Saudara dapat melalakukan pengaturan atau edit untuk manajemen tugas dan proyek saudara. Dengan Asana, saudara dapat melakukan kustomisasi daftar tugas, mengatur jadwal, mengoordinasikan kolaborasi tim, dan melacak kemajuan proyek secara efisien.
 <img width="929" alt="image_2023-05-17_12-49-18" src="https://github.com/22MAY-D/dokumentasi-tools-mpti/assets/65173851/23633a0c-e5c4-4d0b-ac58-e876c9d590e3">
                     *Gambar 1.3 —
                     
