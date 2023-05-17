@@ -124,10 +124,15 @@ Focalboard juga memungkinkan pengguna untuk menghubungkan tugas-tugas yang salin
 
 Dengan fitur-fitur ini, Focalboard membantu meningkatkan produktivitas tim dan mempermudah koordinasi dalam proyek atau pekerjaan yang kompleks.
 <pre>
-OFFICIAL WEBSITE   : https://asana.com
-OFFICIAL INSTALLER : https://asana.com/download
+OFFICIAL WEBSITE   : https://www.focalboard.com
+OFFICIAL INSTALLER : https://www.focalboard.com/download/
 </pre>
-1
+
+## ***A. Proyek Pertama Asana***
+1)
+
+
+111111111111111111111111111111111
                                                  
 ### ***B. Pengembangan Proyek Lebih Lanjut***
 ### . . . . ***to be Continued*** <br />
