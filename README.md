@@ -101,8 +101,8 @@ OFFICIAL INSTALLER : https://asana.com/download
 <img width="929" alt="image_2023-05-17_12-49-18" src="https://github.com/22MAY-D/dokumentasi-tools-mpti/assets/65173851/23633a0c-e5c4-4d0b-ac58-e876c9d590e3">
                     *Gambar 1.3 —
                     
-## ***B. Pengembangan Proyek Lebih Lanjut***
-. . . . ***to be Continued*** <br />
+### ***B. Pengembangan Proyek Lebih Lanjut***
+### . . . . ***to be Continued*** <br />
 ----
 
 # FOCALBOARD ★
@@ -110,6 +110,6 @@ Focalboard adalah sebuah perangkat lunak (software) manajemen tugas dan kolabora
 Focalboard menyediakan platform yang mirip dengan papan atau papan tulis virtual, di mana pengguna dapat membuat daftar tugas, mengatur prioritas, menambahkan catatan, dan melampirkan file. Dengan Focalboard, anggota tim dapat berkolaborasi dalam satu tempat, berbagi pemikiran, memberikan komentar, dan memperbarui status tugas secara real-time.
 Focalboard juga memungkinkan pengguna untuk menghubungkan tugas-tugas yang saling terkait, membuat jadwal, mengatur pengingat, dan melacak perkembangan secara visual. Dengan fitur-fitur ini, Focalboard membantu meningkatkan produktivitas tim dan mempermudah koordinasi dalam proyek atau pekerjaan yang kompleks.
 
-## ***B. Pengembangan Proyek Lebih Lanjut***
-. . . . ***to be Continued*** <br />
+### ***B. Pengembangan Proyek Lebih Lanjut***
+### . . . . ***to be Continued*** <br />
 ----
