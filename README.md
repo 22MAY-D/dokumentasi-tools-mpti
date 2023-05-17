@@ -1,5 +1,5 @@
 # dokumentasi-tools-mpti
-                                                 
+
 ### ***Ditunjukkan untuk tugas Manajemen Proyek Teknologi Informasi***
 <pre>
 DOKUMENTASI LENGKAP :
@@ -12,19 +12,17 @@ DOKUMENTASI LENGKAP :
 > KELAS : MANAJEMEN PROYEK C - [081]
 > 
  &ensp;
-                                                 
+ 
 ----
-                                                 
+
 # DAFTAR ISI
 
 - [TOOLS PROJECT MANAGEMENT](https://github.com/22MAY-D/dokumentasi-tools-mpti#TOOLS-PROJECT-MANAGEMENT)
 - [ASANA](https://github.com/22MAY-D/dokumentasi-tools-mpti#ASANA)
 - [FOCALBOARD](https://github.com/22MAY-D/dokumentasi-tools-mpti#FOCALBOARD)
-                                                 
-                                                 
+
 ----
-                                                 
-                                                 
+
 # TOOLS PROJECT MANAGEMENT
 Tools Manajemen Proyek adalah aplikasi atau perangkat lunak yang digunakan untuk membantu mengelola dan mengkoordinasi proyek. Mereka menyediakan fitur dan fungsi yang membantu dalam perencanaan, pelacakan, kolaborasi, pengorganisasian, dan pelaporan proyek.
 
