@@ -1,11 +1,13 @@
 # dokumentasi-tools-mpti
+
  &ensp;
+ 
 ### ***Ditunjukkan untuk tugas Manajemen Proyek Teknologi Informasi***
 <pre>
 DOKUMENTASI LENGKAP :
 </pre>
 -----
-# Tools Project Management
+# TOOLS PROJECT MANAGEMENT
 Tools manajemen proyek adalah aplikasi atau perangkat lunak yang digunakan untuk membantu mengelola dan mengkoordinasi proyek. Mereka menyediakan fitur dan fungsi yang membantu dalam perencanaan, pelacakan, kolaborasi, pengorganisasian, dan pelaporan proyek.
 
 Berikut adalah beberapa contoh tools manajemen proyek yang umum digunakan:
@@ -20,4 +22,7 @@ Berikut adalah beberapa contoh tools manajemen proyek yang umum digunakan:
 8. Google Docs dan Google Sheets: Alat kolaboratif yang memungkinkan tim untuk bekerja bersama-sama secara real-time pada dokumen dan spreadsheet.
 
 Setiap alat manajemen proyek memiliki fitur dan keunggulan yang berbeda, dan pilihan tergantung pada kebutuhan dan preferensi tim proyek.
+
 &nbsp;
+
+# ASANA
