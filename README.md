@@ -50,6 +50,9 @@ OFFICIAL INSTALLER : https://asana.com/download
 12) Pada menu "Desktop App: Asana for Windows", klik download untuk mengunduh file-installer "Asana" di device saudara.'
 13) Selesai sudah! Ini adalah tampilan menu utama proyek pertama saudara.
 Saudara dapat melalakukan pengaturan atau edit untuk manajemen tugas dan proyek saudara. Dengan Asana, saudara dapat melakukan kustomisasi daftar tugas, mengatur jadwal, mengoordinasikan kolaborasi tim, dan melacak kemajuan proyek secara efisien.
+
+## ***B. Pengembangan Proyek Lebih Lanjut***
+. . . . ***to be Continued*** <br />
 ----
 
 # 2. FOCALBOARD
