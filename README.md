@@ -129,9 +129,12 @@ OFFICIAL INSTALLER : https://www.focalboard.com/download/
 </pre>
 
 ## ***A. Proyek Pertama FocalBoard***
-
-
-
+1) Akses Official Website "Focalboard" melalui tautan berikut, 'https://www.focalboard.com'. Kemudian pada tampilan menu utama dari Official Website "Focalboard", pilih opsi 'Download'.
+2) Pada menu 'Download', terdapat pop-up timbul, kemudian klik pada kolom-bar tersebut, lalu ketikkan e-mail saudara untuk melakukan pendaftaran akun baru. Lalu, pilih opsi 'Sign In'. Kemudian menu pop-up Terms of Service (TOS) akan muncul.
+3) Pada menu pop-up Terms of Service (TOS), klik centang pada kedua kotak yang tersedia. Kemudian klik 'Accept'. Lalu pop-up Download (unduhan) akan timbul di browser saudara; yang dimana menandakan proses pengunduhan saudara sedang berjalan, tunggu terunduh sampai selesai;
+4) Atau bisa juga dengan menggunakan fitur bawaan Windows, yaitu melalui aplikasi 'Microsoft Store'. Caranya mudah sekali, pertama buka aplikasi 'Micorsoft Store', kemudian klik pada kolom 'search-bar', lalu ketikkan 'Focalboard'. Dan Enter.
+5) Terlihat search result dari 'Focalboard' akan muncul, klik 'Install'. Dikarenakan saya sudah menginstallnya sebelum tulisan ini dibuat, maka disitu tertulis 'Installed'. Tunggu proses pengunduhan hingga selesai. Jika sudah, klik 'Open' untuk membuka aplikasi 'Focalboard'.
+6) **Selesai sudah! Ini adalah tampilan menu utama proyek pertama saudara.** 
 111111111111111111111111111111111
                                                  
 ### ***B. Pengembangan Proyek Lebih Lanjut***
