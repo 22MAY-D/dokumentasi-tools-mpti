@@ -130,12 +130,29 @@ OFFICIAL INSTALLER : https://www.focalboard.com/download/
 
 ## ***A. Proyek Pertama FocalBoard***
 1) Akses Official Website "Focalboard" melalui tautan berikut, 'https://www.focalboard.com'. Kemudian pada tampilan menu utama dari Official Website "Focalboard", pilih opsi 'Download'.
+![image](https://github.com/22MAY-D/dokumentasi-tools-mpti/assets/65173851/785674cb-a7e0-467a-823e-c6b9a30639d5)
+                    *Gambar 2.1 — Menu Objective Goals in Asana
+                                                                              
 2) Pada menu 'Download', terdapat pop-up timbul, kemudian klik pada kolom-bar tersebut, lalu ketikkan e-mail saudara untuk melakukan pendaftaran akun baru. Lalu, pilih opsi 'Sign In'. Kemudian menu pop-up Terms of Service (TOS) akan muncul.
+<img width="929" alt="image_2023-05-17_16-18-41" src="https://github.com/22MAY-D/dokumentasi-tools-mpti/assets/65173851/751e3b65-d56a-4a12-bc5d-542b957837ab">
+                    *Gambar 2.2 — Menu Objective Goals in Asana
+                                                                          
 3) Pada menu pop-up Terms of Service (TOS), klik centang pada kedua kotak yang tersedia. Kemudian klik 'Accept'. Lalu pop-up Download (unduhan) akan timbul di browser saudara; yang dimana menandakan proses pengunduhan saudara sedang berjalan, tunggu terunduh sampai selesai;
+<img width="929" alt="image_2023-05-17_16-19-14" src="https://github.com/22MAY-D/dokumentasi-tools-mpti/assets/65173851/fbf9336e-e0eb-44e2-9b76-5c6664fd129d">
+                    *Gambar 2.3 — Menu Objective Goals in Asana
+                                                                          
 4) Atau bisa juga dengan menggunakan fitur bawaan Windows, yaitu melalui aplikasi 'Microsoft Store'. Caranya mudah sekali, pertama buka aplikasi 'Micorsoft Store', kemudian klik pada kolom 'search-bar', lalu ketikkan 'Focalboard'. Dan Enter.
+<img width="960" alt="image_2023-05-17_19-40-40" src="https://github.com/22MAY-D/dokumentasi-tools-mpti/assets/65173851/20e4ea13-6c1b-4674-ae13-631217e29fb3">
+                    *Gambar 2.4 — Menu Objective Goals in Asana
+                                                                          
 5) Terlihat search result dari 'Focalboard' akan muncul, klik 'Install'. Dikarenakan saya sudah menginstallnya sebelum tulisan ini dibuat, maka disitu tertulis 'Installed'. Tunggu proses pengunduhan hingga selesai. Jika sudah, klik 'Open' untuk membuka aplikasi 'Focalboard'.
-6) **Selesai sudah! Ini adalah tampilan menu utama proyek pertama saudara.** 
-111111111111111111111111111111111
+<img width="960" alt="image_2023-05-17_19-41-03" src="https://github.com/22MAY-D/dokumentasi-tools-mpti/assets/65173851/31bd4dce-5888-45df-81ca-27b81b9b324f">
+                    *Gambar 2.5 — Menu Objective Goals in Asana
+                                                                          
+6) **Selesai sudah! Ini adalah tampilan menu utama proyek pertama saudara.**
+<img width="960" alt="image_2023-05-17_20-21-05" src="https://github.com/22MAY-D/dokumentasi-tools-mpti/assets/65173851/fbe933e8-85af-4ec6-add1-291f4e41a9ba">
+                    *Gambar 2.6 — Menu Objective Goals in Asana
+                                                                          
                                                  
 ### ***B. Pengembangan Proyek Lebih Lanjut***
 ### . . . . ***to be Continued*** <br />
